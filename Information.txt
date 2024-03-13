@@ -1,0 +1,19 @@
+TEAM STATS:
+Goals For per Game -> Goals For per Game
+Goals Against per Game -> Goals Against per Game
+Power Play % -> Power Play %
+Penalty Kill % -> Penalty Kill %
+Expected Goals For per Game (per 60) -> Expected Goals For per Game (per 60)
+Expected Goals Against per Game (per 60) -> Expected Goals Against per Game (per 60)
+
+Goalie Stats (Starter): 
+SV% (Last 40) -> SV% (Last 40)
+SV% (Last 10) -> SV% (Last 10)
+GAA (Last 40) -> GAA (Last 40)
+GAA (Last 10) -> GAA (Last 10)
+Expected Goals Against per Game (Last 40) -> ""
+Expected Goals Against per Game (Last 10) -> ""
+
+Skater Stats (Starters):
+
+
